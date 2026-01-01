@@ -1,0 +1,21 @@
+% --- Colors (Standard Resume Blue/Gray) ---
+\definecolor{darkblue}{RGB}{0, 77, 153}
+\definecolor{graytext}{RGB}{80, 80, 80}
+
+
+% --- Formatting Settings ---
+\pagestyle{empty} % No page numbers
+\setlength{\parindent}{0pt} % No indentation
+
+% Custom section formatting
+\titleformat{\section}
+  {\large\bfseries\color{darkblue}\uppercase} % Format
+  {} % Label
+  {0em} % Sep
+  {} % Before code
+  [\titlerule] % After code (horizontal line)
+
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+
+% Custom itemize settings (tighter list)
+\setlist[itemize]{left=0pt, label={$\bullet$}, noitemsep, topsep=0pt, leftmargin=1.5em}
