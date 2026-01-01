@@ -1,0 +1,15 @@
+% Header Macro : Name, Role, Phone, Email, Github, LinkedIn, CodeForces, Location
+\newcommand{\headerCreator}[8]{
+    \begin{center}
+        {\Huge \textbf{#1}} \\ \vspace{4pt}
+        {\large \textbf{#2}} \\ \vspace{4pt}
+        {\small
+         \faPhone\ #3 \ \textbullet \
+         \faEnvelope\ \href{mailto:#4}{#4} \ \textbullet \
+         \faGithub\ \href{https://github.com/#5}{GitHub} \\
+         \faLinkedin\ \href{https://www.linkedin.com/in/#6}{LinkedIn} \ \textbullet \
+         \faCode\ \href{https://codeforces.com/profile/#7}{CodeForces} \ \textbullet \
+         \faLocationArrow\ #8
+        }
+    \end{center}
+}
