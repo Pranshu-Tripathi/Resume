@@ -4,6 +4,13 @@
 \input{modules/constants.tex}
 \input{modules/components/header.tex}
 \input{modules/components/summary.tex}
+\input{modules/components/experience.tex}
+\input{modules/components/education.tex}
+\input{modules/components/awards.tex}
+\input{modules/components/volunteering.tex}
+\input{modules/components/languages.tex}
+\input{modules/components/skills.tex}
+\input{modules/components/projects.tex}
 
 % --- Document Start ---
 \begin{document}
@@ -11,16 +18,18 @@
 \header
 \summary
 
-\begin{multicols}{2}
-
-\section*{Experience}
-
-\columnbreak
-
-\section*{Projects}
-
-\end{multicols}
-
+\begin{minipage}[t]{0.64\textwidth}
+    \experience
+    \projects
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \education
+    \awards
+    \skills
+    \volunteering
+    \languages{English, Hindi, Marathi, German}
+\end{minipage}
 
 \end{document}
 % --- Document End ---
