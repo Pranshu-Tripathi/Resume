@@ -1,0 +1,29 @@
+% Subsection with Links Macro: Title, Github Link, Youtube Link
+\newcommand{\subsectionwithlinks}[3]{
+    \subsection*{
+        \large\bfseries\textcolor{darkblue}{#1} \hfill
+        \ifx&#2&%
+            \ifx&#3&%
+                % Both links empty - no icons
+            \else%
+                % Only YouTube link
+                \href{#3}{\faYoutube}%
+            \fi%
+        \else%
+            \ifx&#3&%
+                % Only GitHub link
+                \href{#2}{\faGithub}%
+            \else%
+                % Both links present
+                \href{#2}{\faGithub} \hspace{0.5em} \href{#3}{\faYoutube}%
+            \fi%
+        \fi
+    }
+}
+
+% Project Macro: Project Title, Github Link, Youtube Link, Description
+\newcommand{\projectCreator}[4]{
+    \subsectionwithlinks{#1}{#2}{#3}
+    \vspace{-0.5em}
+    #4
+}
