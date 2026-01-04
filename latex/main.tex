@@ -4,6 +4,7 @@
 \input{modules/constants.tex}
 \input{modules/components/header.tex}
 \input{modules/components/summary.tex}
+\input{modules/components/experience.tex}
 
 % --- Document Start ---
 \begin{document}
@@ -11,16 +12,18 @@
 \header
 \summary
 
-\begin{multicols}{2}
-
-\section*{Experience}
-
-\columnbreak
-
-\section*{Projects}
-
-\end{multicols}
-
+\begin{minipage}[t]{0.64\textwidth}
+    \experience
+    \section*{Projects}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \section*{Education}
+    \section*{Awards}
+    \section*{Skills}
+    \section*{Volunteering}
+    \section*{Languages}
+\end{minipage}
 
 \end{document}
 % --- Document End ---

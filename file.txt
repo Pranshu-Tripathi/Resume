@@ -29,15 +29,6 @@ Software Development Engineer with 2+ years of experience across full-stack deve
 \section*{Experience}
 
 \experience{Schrödinger (D.E. Shaw)}{Hyderabad}{Developer 2 (SDE-2)}{07/2024 -- Present}
-\begin{itemize}
-    \item Prototyped a voice-enabled LLM agent (Maestro Assistant) using Vertex AI, Google Speech-to-Text, and LITELLM; now leading backend dev with 2 reports.
-    \item Reduced non-bonded interaction time 300-400x by building a modular C++ library with caching; cut 10-min tasks to 30s.
-    \item Designed and deployed LLM agent backend with FastAPI, G Cloud Run, Docker, G Cloud SQL, and Terraform for production-ready models.
-    \item Implemented a bidirectional communication layer between Maestro and PyMOL using the Mediator design pattern, reducing integration complexity by 40\% and improving system modularity.
-    \item Enhanced export functionality for new movie presets (e.g., View Ligand Docking) from Maestro to PyMOL, decreasing manual visualization setup time by 60\% and enhancing automated workflow efficiency.
-    \item Refactored 2000+ lines of legacy code using Factory and Strategy patterns, improving extensibility for handling diverse Job Server outputs.
-    \item Implemented caching in the interaction library, enabling $<$1-second repeated lookups and making the tool reusable across Schrödinger's software suite.
-\end{itemize}
 
 \vspace{6pt}
 
