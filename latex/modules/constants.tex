@@ -18,4 +18,12 @@
 \titlespacing*{\section}{0pt}{12pt}{6pt}
 
 % Custom itemize settings (tighter list)
-\setlist[itemize]{left=0pt, label={$\bullet$}, noitemsep, topsep=0pt, leftmargin=1.5em}
+\setlist[itemize]{left=0pt, label={$\bullet$}, noitemsep, topsep=0pt, leftmargin=1em}
+
+
+% Reusable subsection
+\newcommand{\bluesubsection}[1]{
+  \subsection*{
+    \large\bfseries\textcolor{darkblue}{#1}
+  }
+}
