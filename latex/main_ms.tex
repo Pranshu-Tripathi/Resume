@@ -1,0 +1,25 @@
+\documentclass[letterpaper, 10pt]{article}
+
+\input{modules/packages.tex}
+\input{modules/constants.tex}
+\input{modules/components/MS/hearder.tex}
+\input{modules/components/MS/experience.tex}
+\input{modules/components/MS/education.tex}
+\input{modules/components/MS/volunteering.tex}
+\input{modules/components/MS/languages.tex}
+\input{modules/components/MS/coursework.tex}
+% --- Document Start ---
+\begin{document}
+\header
+\begin{minipage}[t]{0.64\textwidth}
+    \experience
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \education
+    \coursework
+    \volunteering
+    \languages{English, Hindi, Marathi, German}
+\end{minipage}
+\end{document}
+% --- Document End ---

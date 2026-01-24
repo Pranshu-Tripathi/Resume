@@ -1,0 +1,31 @@
+\input{modules/templates/experience.tex}
+
+\newcommand{\experience}{
+    \section*{Experience}
+    \bluesubsection{Schrödinger}
+    \experienceCreator{Senior Developer I}{January 2026 - Present}
+        \begin{itemize}
+            \item Project lead of Maestro Assistant.
+            \item Developed a Semantic Panel Search prototype using vector embeddings to replace legacy algorithmic search, successfully validating the architecture for production deployment
+            \item Collaborating on architecture design of Notification and Authentication services for Maestro.
+        \end{itemize}
+    
+    \experienceCreator{Developer II}{July 2024 - December 2025}
+        \begin{itemize}
+            \item Spearheaded R\&D for 'Maestro Assistant', an LLM-driven research tool. Engineered a RAG (Retrieval-Augmented Generation) pipeline using Vector Embeddings to replace legacy algorithmic search, reducing query latency and enabling semantic understanding of molecular datasets.
+            \item Implemented non-bonded interaction calculation library; a modular C++ library with caching. It reduced the calculation time by 300-400x; cut 10-min tasks to 30s.
+        \end{itemize}
+        
+    \experienceCreator{Developer I}{June 2023 - June 2024}
+        \begin{itemize}
+            \item Refactored 2000+ lines of legacy code using Factory and Strategy patterns, improving extensibility for handling diverse Job Server outputs.
+            \item Enhanced export functionality for new movie presets (e.g., View Ligand Docking) from Maestro to PyMOL, decreasing manual visualization setup time by 60\% and enhancing automated workflow efficiency.
+        \end{itemize}
+        
+    \experienceCreator{Intern - Software Development}{January 2023 - May 2023}
+        \begin{itemize}
+            \item Created an adapter for Schrödinger’s structure class that removed the m2io dependency and enabled a property-writing mechanism with 3x greater flexibility, gaining recognition from Scientific Infrastructure team.
+            \item Implemented a robust Find Toolbar widget following MVC pattern and command pattern with python and C++ inter communication.
+            \item Delivered a robust preset management feature in 2 months—30\% faster than average—using Factory and Adapter design patterns.
+        \end{itemize}
+}
