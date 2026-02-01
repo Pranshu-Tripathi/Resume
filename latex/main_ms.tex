@@ -1,0 +1,29 @@
+\documentclass[letterpaper, 10pt]{article}
+
+\input{modules/packages.tex}
+\input{modules/constants.tex}
+\input{modules/components/MS/header.tex}
+\input{modules/components/MS/experience.tex}
+\input{modules/components/MS/education.tex}
+\input{modules/components/MS/volunteering.tex}
+\input{modules/components/MS/languages.tex}
+\input{modules/components/MS/coursework.tex}
+\input{modules/components/MS/projects.tex}
+\input{modules/components/MS/skills.tex}
+% --- Document Start ---
+\begin{document}
+\header
+\begin{minipage}[t]{0.66\textwidth}
+    \experience
+    \projects
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.31\textwidth}
+    \education
+    \coursework
+    \skills
+    \volunteering
+    \languages{English, Hindi, Marathi, German}
+\end{minipage}
+\end{document}
+% --- Document End ---
