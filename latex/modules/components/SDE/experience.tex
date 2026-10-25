@@ -39,5 +39,10 @@
             \item \textbackslash{}item Delivered an LLM-driven failed-job debugging workflow that diagnoses Maestro job failures and provides computational scientists with actionable explanations instead of raw logs.
             \item \textbackslash{}item Eliminated a user-visible \textbackslash{}textasciitilde60-second session-pod startup delay by speculatively warming pods on first keystroke and integrating remaining startup into the first-message flow across new, resumed, and imported sessions.
             \item \textbackslash{}item Led remediation of database connection leaks causing Gunicorn timeouts and backend-wide production sluggishness, restoring stable request latency for Bunsen sessions.
+            \item \textbackslash{}item Improved Bunsen file-browser scalability for large directories through server-filtered incremental loading and virtualized rendering, backed by automated performance coverage.
+            \item \textbackslash{}item Hardened Bunsen account and session handling by invalidating tokens for pending accounts, securing environment-variable handling, and resolving reconnect loops in paused sessions.
+            \item \textbackslash{}item Refactored Bunsen's container handoff and introduced opt-in Auto mode, enabling long-running agent jobs to proceed without repeated approval prompts.
+            \item \textbackslash{}item Migrated seven core chemistry data-model tables to simpleschema, consolidating compound and batch definitions into a unified schema layer.
+            \item \textbackslash{}item Delivered Maestro desktop improvements spanning chemical-search correctness, property export, and in-panel access to Maestro Assistant.
 \end{itemize}
 }
