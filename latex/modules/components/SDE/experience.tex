@@ -37,5 +37,7 @@
             \item \textbackslash{}item Built Maestro Assistant's session and conversation persistence platform with migrated schemas, titled soft-deletable sessions, recency-ordered listings, and mode-scoped REST endpoints.
             \item \textbackslash{}item Closed a critical session-pod trust-boundary gap by removing secrets from container images, pinning dependencies, patching high- and critical-severity CVEs, and tightening session-ID validation.
             \item \textbackslash{}item Delivered an LLM-driven failed-job debugging workflow that diagnoses Maestro job failures and provides computational scientists with actionable explanations instead of raw logs.
+            \item \textbackslash{}item Eliminated a user-visible \textbackslash{}textasciitilde60-second session-pod startup delay by speculatively warming pods on first keystroke and integrating remaining startup into the first-message flow across new, resumed, and imported sessions.
+            \item \textbackslash{}item Led remediation of database connection leaks causing Gunicorn timeouts and backend-wide production sluggishness, restoring stable request latency for Bunsen sessions.
 \end{itemize}
 }
