@@ -1,0 +1,594 @@
+{
+  "accepted_commit": "e84dd526216b56dec33ad1357e67cc9eb52153c9",
+  "content_plan": {
+    "decisions": [
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:10021da6c153383a7675645f",
+        "reason": "Hackathon placement is lower priority than recent production ownership and measurable engineering outcomes."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:12122f73dcf00b8745d2e6b4",
+        "reason": "Retain Maestro Assistant leadership within consolidated current-role bullets supported by newer logged project evidence."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "accepted:17b9fa6610c2debb9553add7",
+        "reason": "Strong academic distinction; keep concisely under the IIIT education entry."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:23701f25f955d67b7060cf3e",
+        "reason": "Older personal project has less SDE signal than EventHive and recent production work."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:2770f58f8460c3f21d3f612d",
+        "reason": "Project description lacks a concrete scope or outcome compared with stronger selected evidence."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:2fd5850a7851d50d2124821b",
+        "reason": "Use only if space permits as an earlier-career product-impact example; otherwise the stronger C++ performance result carries the progression narrative."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "accepted:3c40aa1afd9e8fa49c73a43e",
+        "reason": "Retain the single concise leadership-recognition award so the existing Awards section remains substantive after removing lower-priority items."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "accepted:3e9568acbe01449c3cd642cd",
+        "reason": "Keep EventHive as the single personal project because its 3,000+ RPS and five-service scope provide clear systems evidence."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "accepted:4b2ce70f952e5c276cd043fc",
+        "reason": "Restore all Schr\u00f6dinger titles and dates as existing entries; they provide material progression from internships through Developer I, Developer II, and Senior Developer I."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:53a46c9c507fb5a521cb8a23",
+        "reason": "Retain the existing January\u2013May 2023 internship entry as compact earlier-career progression context."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:54a74685ab7404b41394ecbe",
+        "reason": "Section label is not substantive evidence and the volunteering section should be removed for one-page focus."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:8326256181a11b411720894c",
+        "reason": "Non-technical extracurricular role is lower priority than professional engineering evidence."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:9eec39290b3550a80ae79935",
+        "reason": "Retain the earliest internship entry and its single concise delivery outcome to preserve the full Schr\u00f6dinger progression."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:b54b4ca35259db06dce1fdd3",
+        "reason": "Retain the existing internship implementation evidence only as concise context under the restored entry."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:b7f1282902fa75c74e1fe88b",
+        "reason": "Retain the IIIT degree, dates, GPA, and rank in a condensed education entry alongside the new Georgia Tech degree."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:b9fcd81cda3f2b525cd0bca7",
+        "reason": "Sports award is outside the targeted SDE narrative."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:c74f89ecf2c9e9a8b0c329ae",
+        "reason": "Replace the stale, overly broad summary with an evidence-based synthesis of current platform ownership and outcomes."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:c9d6d33a4411c1c90c1b164e",
+        "reason": "Retain the proxy, CI/CD, telemetry, 100+ daily requests, and recognition only as supporting context in the consolidated Maestro Assistant story."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:ca0906877ec208c153a9b613",
+        "reason": "Non-technical extracurricular role is lower priority than professional engineering evidence."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:d9bce45290d3d5b895e98dd8",
+        "reason": "Retain the existing Developer I entry and its concise legacy-refactoring evidence to make the restored progression substantive."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:e1d53119d8fcd40fb823761f",
+        "reason": "Mentorship detail is worthwhile but does not fit the one-page budget after prioritizing project ownership and outcomes."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:e4cbf92b9d5243d88cf1fa5e",
+        "reason": "Section label is not substantive evidence; selected recognition is folded into the Maestro narrative."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:eaca55a8668969788fab0d98",
+        "reason": "Retain a trimmed, evidence-backed skills section; remove unsupported interest-style items and redundant tools."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "accepted:ee09a54e4db0d7c78958a9c4",
+        "reason": "Retain semantic search as a concise current Maestro capability only if it fits alongside the more substantial multi-agent and persistence work."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:f0d2a746dcba712fbf8688f9",
+        "reason": "Architecture collaboration is less specific than logged ownership and shipped outcomes."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "accepted:f561d27d8195904f1693bd79",
+        "reason": "Keep the 300\u2013400x C++ performance improvement as the strongest non-GenAI technical outcome."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "accepted:fc602b45fa10c8888a5a26bb",
+        "reason": "Language section boilerplate is not evidence; languages remain available through the main template invocation if space permits."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:1",
+        "reason": "Lead the Maestro Assistant story with ownership of the multi-agent backend and shared tool-execution framework."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:2",
+        "reason": "Combine with Maestro ownership to show durable session and conversation persistence rather than isolated REST implementation."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:3",
+        "reason": "Combine into the Maestro platform bullet as configurable knowledge-bot behavior that avoids redeploys."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:4",
+        "reason": "Retain as part of a security-focused Maestro platform bullet, emphasizing closure of the trust-boundary gap and end-to-end hardening."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:5",
+        "reason": "Combine into the Maestro product narrative as an LLM workflow that turns raw job logs into actionable explanations."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:6",
+        "reason": "Combine as supporting responsiveness work in the Maestro platform narrative; omit the implementation-level event-publishing detail."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:7",
+        "reason": "Retain Bunsen administration and secure-session controls as platform scope supporting the GenAI product narrative."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:8",
+        "reason": "Retain the operator-facing resiliency dashboard outcome in a consolidated Bunsen reliability bullet."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:9",
+        "reason": "Retain the eliminated ~60-second startup interstitial as a concrete Bunsen user-experience outcome."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:10",
+        "reason": "Combine into Bunsen reliability evidence, retaining stable request latency restored by resolving production connection leaks."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:11",
+        "reason": "Combine into Bunsen scale evidence, retaining incremental loading and virtualization for large directories."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:12",
+        "reason": "Retain as Bunsen security ownership, focusing on protection of proprietary assets and session-state reliability rather than enumerating every fix."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "log:13",
+        "reason": "Explicit operator priority: preserve the opt-in Auto mode for long-running agent jobs separately from incidental sidecar refactoring."
+      },
+      {
+        "disposition": "omit",
+        "evidence_id": "log:14",
+        "reason": "Schema migration is solid but lower-signal than selected user-facing GenAI platform, reliability, and performance outcomes."
+      },
+      {
+        "disposition": "combine",
+        "evidence_id": "log:15",
+        "reason": "Retain only if space permits to demonstrate continued C++/Qt desktop breadth; avoid listing the individual fixes."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "log:16",
+        "reason": "Add the Georgia Tech MS Computer Science program and High Performance Computing coursework to Education."
+      },
+      {
+        "disposition": "retain",
+        "evidence_id": "operator:current",
+        "reason": "Apply the stated preferences: identify Maestro Assistant and Bunsen as GenAI projects, add Georgia Tech MS/HPC, and preserve Bunsen Auto mode with explicit approval controls."
+      }
+    ],
+    "essential_facts": [
+      {
+        "evidence_id": "accepted:12122f73dcf00b8745d2e6b4",
+        "fact": "Project lead of Maestro Assistant.",
+        "file_paths": [
+          "latex/modules/components/SDE/experience.tex"
+        ],
+        "id": "2bb96b233778e3fb654a"
+      },
+      {
+        "evidence_id": "log:1",
+        "fact": "Designed and shipped the multi-agent layer of the Maestro Assistant backend",
+        "file_paths": [
+          "latex/modules/components/SDE/experience.tex"
+        ],
+        "id": "72bca33af5626f748321"
+      },
+      {
+        "evidence_id": "log:13",
+        "fact": "letting long-running agent jobs proceed without repeated approval prompts while keeping an explicit opt-in gate.",
+        "file_paths": [
+          "latex/modules/components/SDE/experience.tex"
+        ],
+        "id": "3e603e57caed61380248"
+      },
+      {
+        "evidence_id": "log:8",
+        "fact": "turning opaque LLM outages into diagnosable incidents.",
+        "file_paths": [
+          "latex/modules/components/SDE/experience.tex"
+        ],
+        "id": "7dc04d86723bb6e0b02a"
+      },
+      {
+        "evidence_id": "log:9",
+        "fact": "Eliminated a blocking ~60-second pod-startup interstitial",
+        "file_paths": [
+          "latex/modules/components/SDE/experience.tex"
+        ],
+        "id": "711a62766aadf38c5a78"
+      },
+      {
+        "evidence_id": "accepted:f561d27d8195904f1693bd79",
+        "fact": "reduced the calculation time by 300-400x; cut 10-min tasks to 30s.",
+        "file_paths": [
+          "latex/modules/components/SDE/experience.tex"
+        ],
+        "id": "8087297cee59e0ac3633"
+      },
+      {
+        "evidence_id": "log:16",
+        "fact": "Began the Master of Science in Computer Science program at Georgia Institute of Technology",
+        "file_paths": [
+          "latex/modules/components/SDE/education.tex"
+        ],
+        "id": "0f5c8fca1396bcb38316"
+      },
+      {
+        "evidence_id": "accepted:3e9568acbe01449c3cd642cd",
+        "fact": "Deployed a ticketing platform on GKE handling 3,000+ RPS",
+        "file_paths": [
+          "latex/modules/components/SDE/projects.tex"
+        ],
+        "id": "5fd94ffbc886532c0044"
+      }
+    ],
+    "narrative": "Position the candidate as a software engineer at Schr\u00f6dinger who has progressed from desktop and performance engineering into ownership of GenAI platforms. Lead with Maestro Assistant ownership and Bunsen\u2019s secure, user-controlled agent workflows; support breadth with measurable C++ performance work and a scalable cloud project. Consolidate implementation details into outcome-led bullets, retain the role progression, add Georgia Tech MS education, and remove low-signal extracurricular material for a one-page SDE story.",
+    "skill_decisions": [
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:1",
+          "log:11",
+          "log:12",
+          "log:13",
+          "log:2",
+          "log:3",
+          "log:4",
+          "log:5",
+          "log:6",
+          "log:7",
+          "log:8",
+          "log:9"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Repeatedly demonstrated across shipped Maestro Assistant and Bunsen backend work.",
+        "technology": "FastAPI"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:1"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Directly demonstrated through the shipped multi-agent Maestro Assistant backend.",
+        "technology": "LLM Agents"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:1"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Directly demonstrated through shared agent tool-execution feedback.",
+        "technology": "Tool Calling"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:10",
+          "log:14",
+          "log:2"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Demonstrated in production persistence, schema, and connection-leak work.",
+        "technology": "SQLAlchemy"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:10"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Demonstrated in production backend reliability work.",
+        "technology": "asyncio"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:10"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Relevant production observability technology used in backend reliability work.",
+        "technology": "GCP Logging"
+      },
+      {
+        "disposition": "defer",
+        "evidence_ids": [
+          "log:11"
+        ],
+        "file_path": "",
+        "reason": "Capability rather than a discrete technology; demonstrate it through outcome-led experience bullets.",
+        "technology": "Performance Optimization"
+      },
+      {
+        "disposition": "defer",
+        "evidence_ids": [
+          "log:12",
+          "log:4"
+        ],
+        "file_path": "",
+        "reason": "Capability rather than a discrete technology; preserve through experience outcomes.",
+        "technology": "Security Hardening"
+      },
+      {
+        "disposition": "defer",
+        "evidence_ids": [
+          "log:14"
+        ],
+        "file_path": "",
+        "reason": "Technique is lower priority for the targeted one-page SDE skills section.",
+        "technology": "Schema Migration"
+      },
+      {
+        "disposition": "defer",
+        "evidence_ids": [
+          "log:15"
+        ],
+        "file_path": "",
+        "reason": "Already present in the existing skills section and does not need duplication.",
+        "technology": "PyMOL"
+      },
+      {
+        "disposition": "defer",
+        "evidence_ids": [
+          "log:15"
+        ],
+        "file_path": "",
+        "reason": "Domain knowledge is better conveyed through Schr\u00f6dinger experience than a broad skills tag.",
+        "technology": "Cheminformatics"
+      },
+      {
+        "disposition": "defer",
+        "evidence_ids": [
+          "log:16"
+        ],
+        "file_path": "",
+        "reason": "Academic discipline belongs in Education, not Skills.",
+        "technology": "Computer Science"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:2"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Directly demonstrated in the migrated Maestro session persistence platform.",
+        "technology": "Alembic"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:3",
+          "log:5"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Directly demonstrated in shipped knowledge and failed-job debugging workflows.",
+        "technology": "LLM"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:4"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Relevant identity/security technology demonstrated in end-to-end service hardening.",
+        "technology": "Auth0"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:6"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Demonstrated in the streamed Maestro response path.",
+        "technology": "Server-Sent Events"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:7"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Demonstrated in Bunsen authentication and break-glass access design.",
+        "technology": "OIDC"
+      },
+      {
+        "disposition": "add",
+        "evidence_ids": [
+          "log:8"
+        ],
+        "file_path": "latex/modules/components/SDE/skills.tex",
+        "reason": "Demonstrated through the shipped LLM resiliency dashboard with latency, error-rate, and fallback visibility.",
+        "technology": "Observability"
+      }
+    ],
+    "summary_focus": "Software engineer at Schr\u00f6dinger who owns GenAI platform capabilities across Maestro Assistant and Bunsen, spanning multi-agent workflows, secure controls, and production reliability. Differentiate with measurable performance work: a C++ molecular-calculation library reduced runtime 300\u2013400x, while Bunsen changes removed a blocking ~60-second startup experience. Mention this as synthesis only; retain detailed evidence primarily in Experience."
+  },
+  "draft_commit": "e84dd526216b56dec33ad1357e67cc9eb52153c9",
+  "layout": [
+    {
+      "blank_page": false,
+      "column_balance_needs_review": false,
+      "entrypoint": "main_sde.tex",
+      "image": "profile-0-1.png",
+      "left_bottom_fraction": 0.823,
+      "page": 1,
+      "right_bottom_fraction": 0.807,
+      "text_outside_page": false
+    }
+  ],
+  "model": "gpt-5.6-terra",
+  "page_counts": {
+    "main_sde.tex": 1
+  },
+  "review": {
+    "checks": [
+      {
+        "criterion": "ownership",
+        "explanation": "Maestro Assistant leadership, multi-agent delivery, Bunsen ownership, and the full Schr\u00f6dinger progression from internships through Senior Developer I are preserved.",
+        "passed": true
+      },
+      {
+        "criterion": "impact",
+        "explanation": "The resume prioritizes substantial GenAI platform, security, reliability, and C++ performance contributions, with supported qualitative and quantitative outcomes.",
+        "passed": true
+      },
+      {
+        "criterion": "summary",
+        "explanation": "The concise summary positions the candidate as a Schr\u00f6dinger software engineer owning GenAI platforms and connects that ownership to supported C++ and startup-latency outcomes.",
+        "passed": true
+      },
+      {
+        "criterion": "placement",
+        "explanation": "Roles, dates, education, project, awards, skills, and languages are placed in coherent sections with no orphan entries.",
+        "passed": true
+      },
+      {
+        "criterion": "factuality",
+        "explanation": "Changed claims\u2014including GenAI framing, Auto mode with explicit controls, resiliency diagnosis, startup improvement, Georgia Tech enrollment/coursework, and skills additions\u2014are supported by the supplied evidence or operator guidance.",
+        "passed": true
+      },
+      {
+        "criterion": "visual",
+        "explanation": "The rendered single page has no clipping or overlap and retains the restored role-progression evidence. The open lower-page area is noticeable but is not paired with loss of required valuable evidence.",
+        "passed": true
+      }
+    ],
+    "coverage": [
+      {
+        "candidate_quote": "Led Maestro Assistant, a GenAI platform",
+        "evidence_id": "accepted:12122f73dcf00b8745d2e6b4",
+        "fact": "Project lead of Maestro Assistant.",
+        "fact_id": "2bb96b233778e3fb654a",
+        "file_path": "latex/modules/components/SDE/experience.tex"
+      },
+      {
+        "candidate_quote": "shipping its multi-agent backend",
+        "evidence_id": "log:1",
+        "fact": "Designed and shipped the multi-agent layer of the Maestro Assistant backend",
+        "fact_id": "72bca33af5626f748321",
+        "file_path": "latex/modules/components/SDE/experience.tex"
+      },
+      {
+        "candidate_quote": "Built Bunsen\u2019s opt-in Auto mode and approval controls, allowing long-running agent jobs to proceed without repeated prompts while retaining explicit user control.",
+        "evidence_id": "log:13",
+        "fact": "letting long-running agent jobs proceed without repeated approval prompts while keeping an explicit opt-in gate.",
+        "fact_id": "3e603e57caed61380248",
+        "file_path": "latex/modules/components/SDE/experience.tex"
+      },
+      {
+        "candidate_quote": "Shipped an owner-only LLM resiliency dashboard that made outages diagnosable",
+        "evidence_id": "log:8",
+        "fact": "turning opaque LLM outages into diagnosable incidents.",
+        "fact_id": "7dc04d86723bb6e0b02a",
+        "file_path": "latex/modules/components/SDE/experience.tex"
+      },
+      {
+        "candidate_quote": "eliminated a blocking ~60-second Bunsen pod-startup experience.",
+        "evidence_id": "log:9",
+        "fact": "Eliminated a blocking ~60-second pod-startup interstitial",
+        "fact_id": "711a62766aadf38c5a78",
+        "file_path": "latex/modules/components/SDE/experience.tex"
+      },
+      {
+        "candidate_quote": "reducing calculation time 300\u2013400x and cutting 10-minute tasks to 30 seconds.",
+        "evidence_id": "accepted:f561d27d8195904f1693bd79",
+        "fact": "reduced the calculation time by 300-400x; cut 10-min tasks to 30s.",
+        "fact_id": "8087297cee59e0ac3633",
+        "file_path": "latex/modules/components/SDE/experience.tex"
+      },
+      {
+        "candidate_quote": "Georgia Institute of Technology\nM.S. in Computer Science\nAugust 2026 - Present",
+        "evidence_id": "log:16",
+        "fact": "Began the Master of Science in Computer Science program at Georgia Institute of Technology",
+        "fact_id": "0f5c8fca1396bcb38316",
+        "file_path": "latex/modules/components/SDE/education.tex"
+      },
+      {
+        "candidate_quote": "Deployed a ticketing platform on GKE handling 3,000+ RPS",
+        "evidence_id": "accepted:3e9568acbe01449c3cd642cd",
+        "fact": "Deployed a ticketing platform on GKE handling 3,000+ RPS",
+        "fact_id": "5fd94ffbc886532c0044",
+        "file_path": "latex/modules/components/SDE/projects.tex"
+      }
+    ],
+    "findings": [
+      {
+        "code": "unused_lower_page_space",
+        "file_path": "latex/main_sde.tex",
+        "message": "The lower portion of the left column has noticeable unused space. It is not an acceptance blocker because required progression and selected strong evidence are retained, but modest content rebalancing could improve density.",
+        "severity": "warning"
+      }
+    ]
+  },
+  "status": "passed",
+  "version": 1,
+  "visual_review": "passed"
+}
